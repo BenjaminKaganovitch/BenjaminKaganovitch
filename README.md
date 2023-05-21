@@ -27,9 +27,13 @@ Feel free to check out my repositories to see some of my projects in action!
 
 
 ### My stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenjaminKaganovitch&theme=blue-green&show_icons=true&card_width=400)](https://github.com/BenjaminKaganovitch)
+<a href="https://github.com/BenjaminKaganovitch">
+  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=BenjaminKaganovitch&theme=blue-green&show_icons=true" alt="My GitHub stats" />
+</a>
+<a href="https://github.com/BenjaminKaganovitch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminKaganovitch&theme=blue-green&hide=Ruby&show_icons=true&langs_count=3" alt="My GitHub stats"/>
+</a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminKaganovitch&layout=compact&theme=blue-green&card_width=400)](https://github.com/BenjaminKaganovitch)
 
 
 <!--
