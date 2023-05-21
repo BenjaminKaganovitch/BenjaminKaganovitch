@@ -13,10 +13,12 @@ I have also completed various certifications, including the Qubit x Qubit Introd
  ### Skills
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=ADD8E6)
 ![](https://img.shields.io/badge/code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=ADD8E6)
-[![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)](https://www.python.org/)
-
 ![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=ADD8E6)
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=ADD8E6) 
+![](https://img.shields.io/badge/code-python-informational?style=for-the-badge&logo=python&logoColor=white&color=ADD8E6)
+![](https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=ADD8E6)
+![](https://img.shields.io/badge/code-COBOL-informational?style=for-the-badge&logo=Windows%20Terminal&logoColor=white&color=ADD8E6)
+![](https://img.shields.io/badge/code-VB-informational?style=for-the-badge&logo=.net&logoColor=white&color=ADD8E6)
 
 
 
