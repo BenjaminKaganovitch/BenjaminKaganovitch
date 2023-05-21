@@ -1,4 +1,4 @@
-![Abstract Shapes](assets/GithubBanner.jfif "Shapes and Math")
+![Abstract Code](assets/AbstractProgram.jpg "Code and Nature") <!-- Image self made -->
 ### Hello Git! 👋
 
 I am a dedicated and ambitious software developer with a secondary passion for cybersecurity and quantum computing. Currently, I'am duel enrolled at both Fort Richmond Colligate and Manitoba Institute of Trades and Technology, studying software development.  .
