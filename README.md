@@ -22,10 +22,6 @@ I have also completed various certifications, including the Qubit x Qubit Introd
 
 
 
-Feel free to check out my repositories to see some of my projects in action!
-
-
-
 ### My stats
 <a href="https://github.com/BenjaminKaganovitch">
   <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=BenjaminKaganovitch&theme=blue-green&show_icons=true" alt="My GitHub stats" />
