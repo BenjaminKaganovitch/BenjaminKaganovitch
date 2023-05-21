@@ -9,6 +9,18 @@ I have valuable experience as a software developer at CanU Canada, where I creat
 As a competitor in numerous cybersecurity contests, including the Canadian Cyber Defense Challenge, Cyber Patriot, and CyberTitans, I have consistently scored high marks and even earned a silver place as team captain. I was excited to return as the team captain for this year's CyberTitans competition in 2023, where we placed 4th.
 
 I have also completed various certifications, including the Qubit x Qubit Introduction to Quantum Computing, Dell Client, and Cisco certifications, which have enabled me to develop a comprehensive skill set and a profound comprehension of the latest technologies and industry best practices.
+
+## Skills
+
+- **Python:** I have experience in developing Python applications and using popular frameworks like Django and Flask.
+
+- **.NET:** I have expertise in .NET framework and have worked on projects using C# and ASP.NET.
+
+- **React:** I'm proficient in building web applications using React.js and have hands-on experience with state management using Redux and context API.
+
+Feel free to check out my repositories to see some of my projects in action!
+
+
 ### My stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenjaminKaganovitch&show_icons=true)](https://github.com/BenjaminKaganovitch)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminKaganovitch&layout=compact)](https://github.com/BenjaminKaganovitch)
