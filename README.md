@@ -11,6 +11,7 @@ As a competitor in numerous cybersecurity contests, including the Canadian Cyber
 I have also completed various certifications, including the Qubit x Qubit Introduction to Quantum Computing, Dell Client, and Cisco certifications, which have enabled me to develop a comprehensive skill set and a profound comprehension of the latest technologies and industry best practices.
 ### My stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenjaminKaganovitch&show_icons=true)](https://github.com/BenjaminKaganovitch)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminKaganovitch&layout=compact)](https://github.com/BenjaminKaganovitch)
 <!--
 **BenjaminKaganovitch/BenjaminKaganovitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
