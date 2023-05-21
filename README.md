@@ -11,9 +11,9 @@ I have also completed various certifications, including the Qubit x Qubit Introd
 
 
  ### Skills
-![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=51be8d)
+![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=ADD8E6)
+![](https://img.shields.io/badge/code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=ADD8E6)
+![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=ADD8E6)
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=ADD8E6) 
 
 
