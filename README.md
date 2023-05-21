@@ -17,6 +17,7 @@ I have also completed various certifications, including the Qubit x Qubit Introd
 - **.NET:** I have expertise in .NET framework and have worked on projects using C# and ASP.NET.
 
 - **React:** I'm proficient in building web applications using React.js and have hands-on experience with state management using Redux and context API.
+- **C#:** I have a strong understanding of C# programming language and have developed various applications using the .NET ecosystem.
 
 Feel free to check out my repositories to see some of my projects in action!
 
