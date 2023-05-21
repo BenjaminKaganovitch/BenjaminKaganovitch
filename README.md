@@ -18,6 +18,7 @@ I have also completed various certifications, including the Qubit x Qubit Introd
 ![](https://img.shields.io/badge/code-python-informational?style=for-the-badge&logo=python&logoColor=white&color=ADD8E6)
 ![](https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=ADD8E6)
 ![](https://img.shields.io/badge/code-VB-informational?style=for-the-badge&logo=.net&logoColor=white&color=ADD8E6)
+![](https://img.shields.io/badge/db-sql-informational?style=for-the-badge&logo=sql&logoColor=white&color=ADD8E6)
 
 
 
