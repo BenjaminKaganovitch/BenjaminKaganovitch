@@ -27,7 +27,8 @@ Feel free to check out my repositories to see some of my projects in action!
 
 
 ### My stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenjaminKaganovitch&theme=slateorange&show_icons=true&color=0000FF)](https://github.com/BenjaminKaganovitch)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenjaminKaganovitch&theme=blue-green&show_icons=true)](https://github.com/BenjaminKaganovitch)
+
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminKaganovitch&layout=compact)](https://github.com/BenjaminKaganovitch)
 <!--
