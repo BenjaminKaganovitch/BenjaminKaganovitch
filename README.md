@@ -34,6 +34,7 @@ Feel free to check out my repositories to see some of my projects in action!
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminKaganovitch&theme=blue-green&hide=Ruby&show_icons=true&langs_count=3" alt="My GitHub stats"/>
 </a>
 
+
 - 🔭 I’m currently working on: <a href="https://github.com/BenjaminKaganovitch/Dungeons-and-Dragons-Character-Generator" style="text-decoration: none;"> Dungeons &amp; Dragons Character Generator App </a>
 
 <!--
