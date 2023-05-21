@@ -30,7 +30,8 @@ Feel free to check out my repositories to see some of my projects in action!
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenjaminKaganovitch&theme=blue-green&show_icons=true)](https://github.com/BenjaminKaganovitch)
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminKaganovitch&layout=compact)](https://github.com/BenjaminKaganovitch)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminKaganovitch&layout=compact&theme=blue-green)](https://github.com/BenjaminKaganovitch)
+
 <!--
 **BenjaminKaganovitch/BenjaminKaganovitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
