@@ -17,9 +17,20 @@ I have also completed various certifications, including the Qubit x Qubit Introd
 - **.NET:** I have expertise in .NET framework and have worked on projects using C# and ASP.NET.
 
 - **React:** I'm proficient in building web applications using React.js and have hands-on experience with state management using Redux and context API.
+
 - **C#:** I have a strong understanding of C# programming language and have developed various applications using the .NET ecosystem.
 
+<div align="center">
+  
+  [![Python](https://img.shields.io/badge/Python-Expert-informational?style=flat&logo=python&logoColor=white&color=4B8BBE)](https://www.python.org/)
+  [![.NET](https://img.shields.io/badge/.NET-Expert-informational?style=flat&logo=.net&logoColor=white&color=5C2D91)](https://dotnet.microsoft.com/)
+  [![React](https://img.shields.io/badge/React-Proficient-informational?style=flat&logo=react&logoColor=white&color=61DAFB)](https://reactjs.org/)
+  [![C#](https://img.shields.io/badge/C%23-Proficient-informational?style=flat&logo=c-sharp&logoColor=white&color=239120)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+  
+</div>
+
 Feel free to check out my repositories to see some of my projects in action!
+
 
 
 ### My stats
